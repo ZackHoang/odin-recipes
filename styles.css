@@ -1,0 +1,15 @@
+.heading, 
+.title {
+    font-size: 50px; 
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-weight: 700;
+    color: #F1C40F;
+}
+.sub-heading {
+    text-decoration: underline;
+}
+.image {
+    height: auto;
+    width: 800px;
+}
