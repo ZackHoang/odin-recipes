@@ -1,3 +1,7 @@
+.rice,.steak,.gyudon { 
+    display:inline-block;  
+    margin-left: 400px;
+}   
 .heading, 
 .title {
     font-size: 50px; 
@@ -11,5 +15,6 @@
 }
 .image {
     height: auto;
-    width: 800px;
+    width: 300px;
+    margin-left: 800px;
 }
